@@ -17,7 +17,7 @@
 1. Hoe gevoelig is de data die moet worden verwerkt?
 2. Wie zal er toegang hebben tot de BI-tool en de dashboards?
 
-### algemene notes
+### algemene notes gesprek
 
 Tijdens de nachtploeg werken er twee teams, elk bestaande uit twee personen.
 
